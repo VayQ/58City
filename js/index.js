@@ -3,6 +3,7 @@ window.onload = function() {
     selection();
     askQuestions();
     wordMadal();
+    console.log('hello');
 }
 
 
