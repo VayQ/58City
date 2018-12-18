@@ -6,7 +6,6 @@ window.onload = function() {
     console.log('hello');
 }
 
-
 // 点击选项卡 切换选项
 function selection() {
     // 获取选项卡总菜单
